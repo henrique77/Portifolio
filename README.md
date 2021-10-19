@@ -11,8 +11,8 @@ Além do framework foi utilizado conceitos basicos para o desenvolvimento da apl
 
 ## Portifólio web
 
-Iniciando o servidor do projeto: python3 manage.py runserver
-Acessando o endereço:		  http://127.0.0.1:8000/projects/
+- Iniciando o servidor do projeto: python3 manage.py runserver
+- Acessando o endereço:	    http://127.0.0.1:8000/projects/
 
 <div align="center">
   <img src="./github/portifolioWeb.gif" alt="home" height="425">
