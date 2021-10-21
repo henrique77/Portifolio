@@ -20,7 +20,7 @@ Além do framework foram utilizados outros conceitos para o desenvolvimento da a
 - Acessando o endereço:	    http://127.0.0.1:8000/projects/
 
 <div align="center">
-  <img src="./github/portifolioWeb.gif" alt="home" height="425">
+  <img src="./github/portifolioBlogWeb.gif" alt="home" height="425">
 </div>
 
 
