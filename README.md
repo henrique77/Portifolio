@@ -19,7 +19,7 @@ Além do framework foram utilizados outros conceitos para o desenvolvimento da a
 ### Como rodar a aplicação
 - Copie o repositório para sua máquina local:<br/>
  git clone https://github.com/henrique77/Portifolio.git
-- Acesse a pasta do projeto e iniciando o servidor:<br/>
+- Acesse a pasta do projeto e iniciar o servidor:<br/>
  python3 manage.py runserver
 - Acessando o endereço no navegador:<br/>
  http://127.0.0.1:8000/projects/
