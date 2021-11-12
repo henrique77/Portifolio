@@ -16,15 +16,26 @@ Além do framework foram utilizados outros conceitos para o desenvolvimento da a
 
 ## Portifólio e Blog web
 
-- Iniciando o servidor do projeto: python3 manage.py runserver
-- Acessando o endereço:	    http://127.0.0.1:8000/projects/
+### Como rodar a aplicação
+- Copie o repositório para sua máquina local:<br/>
+ git clone https://github.com/henrique77/Portifolio.git
+- Acesse a pasta do projeto e iniciar o servidor:<br/>
+ python3 manage.py runserver
+- Acessando o endereço no navegador:<br/>
+ http://127.0.0.1:8000/projects/
 
 <div align="center">
   <img src="./github/portifolioBlogWeb.gif" alt="home" height="425">
 </div>
 
+### Blog
 
+No blog o usuário pode:<br/>
+- Filtrar o conteúdo por categoria;
+- Deixar comentário no artigo.
 
- 
+<div align="center">
+  <img src="./github/BlogWeb.gif" alt="home" height="425">
+</div>
 
 
